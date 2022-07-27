@@ -7,3 +7,4 @@
 5. Работа с формами 
 6. Flash messages
 7. Работа с базой данных Sqlite3
+8. Unit test
