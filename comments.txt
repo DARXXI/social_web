@@ -1,5 +1,0 @@
-wsgi - web service gateaway intreface (server)
-urls - urls
-settings - main settings
-asgi - asynchronous async
-__init__.py - говорит питону, что это пакет и он будет искать подмодули
